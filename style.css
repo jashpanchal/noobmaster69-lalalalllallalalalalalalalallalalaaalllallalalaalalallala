@@ -1,0 +1,13 @@
+marquee {
+    background-color: aqua;
+    color: aliceblue;
+}
+body {
+    text-align: left;
+}
+#b {
+    text-align: center;
+}
+#a {
+    border-radius: 20px
+}
